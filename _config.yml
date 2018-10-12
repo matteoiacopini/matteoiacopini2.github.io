@@ -1,0 +1,10 @@
+title: Matteo Iacopini webpage
+
+description:  Matteo Iacopini's personal webpage
+
+url: https://matteoiacopini.github.io
+
+author: Matteo Iacopini
+
+plugins:
+  - jekyll-seo-tag
